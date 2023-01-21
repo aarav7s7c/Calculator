@@ -28,7 +28,7 @@
   outline: none;
   border: none;
   border-radius: 50%;
-  font-size: 1.2em;
+  font-size: 1.8em;
   background-color: #37404e;
   color: #fff;
   cursor: pointer;
@@ -49,7 +49,7 @@
 .display input {
   text-align: right;
   flex: 1;
-  font-size: 2.3em;
+  font-size: 2.9em;
   letter-spacing: 0.1em;
   border-radius: 145px;
   background: transparent;
